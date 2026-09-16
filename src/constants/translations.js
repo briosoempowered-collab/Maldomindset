@@ -174,6 +174,7 @@ export const TRANSLATIONS = {
     academyDesc: "An elite, structured accelerator designed to help you break plateaus, reprogram your psychology, and build physical and financial leverage.",
     learnHeader: "Create The Life You Desire",
     learnLead: "Are you ready to break your limits, transform your habits, and become the person you want to be? Over these 90 days, you will learn to:",
+    learnBenefitsHeader: "What will you receive?",
     benefits: [
       { bold: "Eliminate your vices:", normal: "Break the patterns at the root." },
       { bold: "Develop discipline:", normal: "Learn to be consistent, even without motivation." },
@@ -193,10 +194,10 @@ export const TRANSLATIONS = {
       "My complete blueprint to accelerate your results"
     ],
     investmentLabel: "INVESTMENT",
-    priceCurrent: "$250",
+    priceCurrent: "$99",
     priceCurrency: "USD",
     priceOriginal: "$1,000 USD",
-    pricingGuarantee: "A $1,000 value, yours today for just $250. Limited spots available.",
+    pricingGuarantee: "One-time payment. No monthly fees.",
     applyCtaBtn: "Apply For The Challenge",
 
     // All Programs
@@ -267,8 +268,8 @@ export const TRANSLATIONS = {
         ],
         name: "90-Day Challenge Academy",
         tagline: "Rebuild your discipline, habits and psychology in 90 days.",
-        price: "$250",
-        priceNote: "one-time \u00b7 was $1,000",
+        price: "$99",
+        priceNote: "one-time",
         duration: "90 days",
         format: "Group",
         features: [
@@ -416,7 +417,7 @@ export const TRANSLATIONS = {
     checkoutDesc: "Select your program options and secure enrollment to begin the 90-Day Challenge.",
     billingHeader: "Select Program Inclusions",
     billingTier1: "90-Day Academy Access",
-    billingTier1Price: "$250 USD",
+    billingTier1Price: "$99 USD",
     billingTier1Detail: "Includes weekly live mentorship, templates, and community access.",
     billingTier2: "Premium 1-on-1 Mentorship Bundle",
     billingTier2Price: "$450 USD",
@@ -625,15 +626,17 @@ export const TRANSLATIONS = {
 
     // Academy Page
     academyTitle: "El Reto de 90 Días",
-    academyDesc: "Un acelerador estructurado de élite diseñado para ayudarte a romper mesetas, reprogramar tu psicología y construir apalancamiento físico y financiero.",
-    learnHeader: "Crea la Vida que Deseas",
-    learnLead: "¿Estás listo para romper tus límites, transformar tus hábitos y convertirte en la persona que quieres ser? Durante estos 90 días, aprenderás a:",
+    academyDesc: "Durante 90 días vas a trabajar en ti para transformar tu mente, hábitos, disciplina y estilo de vida.",
+    learnHeader: "DESPIERTA Y HACKEA TU REALIDAD.",
+    learnLead: "Durante 90 días vas a trabajar en ti para transformar tu mente, hábitos, disciplina y estilo de vida.",
+    learnBenefitsHeader: "¿Qué vas a recibir?",
     benefits: [
-      { bold: "Eliminar tus vicios:", normal: "Rompe los patrones desde la raíz." },
-      { bold: "Desarrollar disciplina:", normal: "Aprende a ser constante, incluso sin motivación." },
-      { bold: "Reprogramar tu mente:", normal: "Cambia tu forma de pensar y crea una nueva realidad." },
-      { bold: "Transformarte integralmente:", normal: "Fortalece tu mente, cuerpo y hábitos." },
-      { bold: "Crear la persona que admiras:", normal: "Conviértete en quien quieres ser." }
+      { bold: "Descubre el Método 369 de Nikola Tesla:", normal: "Aprende los secretos detrás del famoso Método 369 y cómo incorporarlo a tu proceso de transformación personal." },
+      { bold: "Crea la persona que admiras y respetas:", normal: "Construye una nueva identidad." },
+      { bold: "Elimina tus vicios:", normal: "Rompe hábitos y patrones que te limitan." },
+      { bold: "Reprograma tu mente:", normal: "Cambia tus creencias y crea la vida que deseas." },
+      { bold: "Aprende disciplina real:", normal: "Desarrolla dominio propio y hábitos sólidos." },
+      { bold: "Despierta — hackea tu realidad:", normal: "Eleva tu conciencia y toma el control de tu vida." }
     ],
     learnClosing: "90 DÍAS PARA CAMBIAR TU VIDA.",
     // Academy Video Section
@@ -643,14 +646,13 @@ export const TRANSLATIONS = {
     pricingIncludes: [
       "Mentoría grupal semanal EN VIVO con Baldo Mindset",
       "Acceso a una comunidad privada de crecimiento y soporte",
-      "Clases magistrales exclusivas paso a paso",
-      "Mi mapa de ruta completo para acelerar tus resultados"
+      "Masterclass Exclusiva para impulsar tu crecimiento"
     ],
-    investmentLabel: "INVERSIÓN",
-    priceCurrent: "$250",
+    investmentLabel: "ACCESO COMPLETO AL RETO 90 DÍAS",
+    priceCurrent: "$99",
     priceCurrency: "USD",
     priceOriginal: "$1,000 USD",
-    pricingGuarantee: "Un valor de $1,000 USD, tuyo hoy por solo $250 USD. Cupos limitados.",
+    pricingGuarantee: "Pago único. Sin mensualidades.",
     applyCtaBtn: "Aplicar al Reto",
 
     // Todos los Programas
@@ -721,8 +723,8 @@ export const TRANSLATIONS = {
         ],
         name: "Academia Reto de 90 D\u00edas",
         tagline: "Reconstruye tu disciplina, tus h\u00e1bitos y tu psicolog\u00eda en 90 d\u00edas.",
-        price: "$250",
-        priceNote: "pago \u00fanico \u00b7 antes $1,000",
+        price: "$99",
+        priceNote: "pago \u00fanico",
         duration: "90 d\u00edas",
         format: "Grupal",
         features: [
@@ -870,7 +872,7 @@ export const TRANSLATIONS = {
     checkoutDesc: "Selecciona las opciones de tu programa y asegura tu cupo para comenzar el Reto de 90 Días.",
     billingHeader: "Selecciona Incluidos del Programa",
     billingTier1: "Acceso a la Academia 90 Días",
-    billingTier1Price: "$250 USD",
+    billingTier1Price: "$99 USD",
     billingTier1Detail: "Incluye mentorías grupales semanales en vivo, plantillas y acceso a la comunidad.",
     billingTier2: "Paquete de Mentoría Privada 1-a-1",
     billingTier2Price: "$450 USD",
