@@ -171,16 +171,17 @@ export const TRANSLATIONS = {
 
     // Academy Page
     academyTitle: "90-Day Challenge",
-    academyDesc: "An elite, structured accelerator designed to help you break plateaus, reprogram your psychology, and build physical and financial leverage.",
-    learnHeader: "Create The Life You Desire",
-    learnLead: "Are you ready to break your limits, transform your habits, and become the person you want to be? Over these 90 days, you will learn to:",
+    academyDesc: "For 90 days you will work on yourself to transform your mind, habits, discipline, and lifestyle.",
+    learnHeader: "WAKE UP AND HACK YOUR REALITY.",
+    learnLead: "For 90 days you will work on yourself to transform your mind, habits, discipline, and lifestyle.",
     learnBenefitsHeader: "What will you receive?",
     benefits: [
-      { bold: "Eliminate your vices:", normal: "Break the patterns at the root." },
-      { bold: "Develop discipline:", normal: "Learn to be consistent, even without motivation." },
-      { bold: "Reprogram your mind:", normal: "Change the way you think and create a new reality." },
-      { bold: "Transform yourself completely:", normal: "Strengthen your mind, body, and habits." },
-      { bold: "Create the person you admire:", normal: "Become who you want to be." }
+      { bold: "Discover Nikola Tesla's 369 Method:", normal: "Learn the secrets behind the famous 369 Method and how to bring it into your personal transformation process." },
+      { bold: "Become the person you admire and respect:", normal: "Build a new identity." },
+      { bold: "Eliminate your vices:", normal: "Break the habits and patterns that hold you back." },
+      { bold: "Reprogram your mind:", normal: "Change your beliefs and create the life you want." },
+      { bold: "Learn real discipline:", normal: "Develop self-control and solid habits." },
+      { bold: "Wake up — hack your reality:", normal: "Raise your awareness and take control of your life." }
     ],
     learnClosing: "90 DAYS TO CHANGE YOUR LIFE.",
     // Academy Video Section
@@ -188,12 +189,11 @@ export const TRANSLATIONS = {
     spotsBadge: "Spots are limited",
     pricingHeader: "What will you get?",
     pricingIncludes: [
-      "Weekly LIVE MENTORSHIP with Baldo Mindset",
+      "Weekly LIVE group mentorship with Baldo Mindset",
       "Access to a private growth & support community",
-      "Exclusive step-by-step masterclasses",
-      "My complete blueprint to accelerate your results"
+      "Exclusive masterclass to boost your growth"
     ],
-    investmentLabel: "INVESTMENT",
+    investmentLabel: "FULL ACCESS TO THE 90-DAY CHALLENGE",
     priceCurrent: "$99",
     priceCurrency: "USD",
     priceOriginal: "$1,000 USD",
